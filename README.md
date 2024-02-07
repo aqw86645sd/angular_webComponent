@@ -33,6 +33,9 @@ rename folder and file
 
 ## package
 
+npm install d3  
+npm install @types/d3
+
 
 
 ## Build
