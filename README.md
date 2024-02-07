@@ -23,7 +23,9 @@ ng generate application chart-bar --style=scss --routing=false --skip-tests --vi
 
 ## step2 rename
 
-rename folder and file
+rename folder and file  
+有安裝 python 可以直接執行 python rename.py `project-name`  
+但要記得改內容  
 
 ## step3 update app.module.ts in project
 
