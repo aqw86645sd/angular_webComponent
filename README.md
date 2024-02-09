@@ -43,7 +43,12 @@ npm install @types/d3
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 範例：（ 執行直接使用 package.json 裡面的 scripts ）  
-ng build --project=chart-line --configuration=production --single-bundle --output-hashing=none
+ng build --project=chart-line --configuration=production --output-hashing=none  
+
+### merge file scripte  
+in file path:  
+cat {runtime,polyfills,main}.js > all.js  
+
 
 ## Running unit tests
 
