@@ -36,6 +36,7 @@ rename folder and file
 npm install d3  
 npm install @types/d3
 
+ng add @angular/material  
 
 
 ## Build
