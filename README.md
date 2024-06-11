@@ -1,4 +1,4 @@
-# public_angular_webComponent
+# angular_webComponent
 實現 web component
 
 # AngularWebComponent
